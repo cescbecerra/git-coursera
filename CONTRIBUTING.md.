@@ -1,0 +1,7 @@
+# Guía para Contribuir
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tu contribución (`git checkout -b feature-branch`).
+3. Realiza tus cambios y haz un commit (`git commit -m "Descripción de los cambios"`).
+4. Sube tu rama (`git push origin feature-branch`).
+5. Abre un Pull Request.
